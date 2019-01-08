@@ -1,5 +1,11 @@
 # getPrivatKey
 
-Getting private key from UTC file.
+Getting private key from UTC file. 
 
-Run faile from node in console.
+npm install keytereum;
+
+change the file to your data;
+
+Run faile from node in console;
+
+node getPrivatKey.js;
